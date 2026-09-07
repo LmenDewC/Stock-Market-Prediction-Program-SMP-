@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/alpaca_collector.dir/src/main.cpp.o CMakeFiles/alpaca_collector.dir/src/alpaca.cpp.o -o alpaca_collector  /usr/lib/x86_64-linux-gnu/libcurl.so 

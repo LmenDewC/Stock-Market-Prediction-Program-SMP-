@@ -1,0 +1,3 @@
+/home/cauzimkasim/lab/data/build/CMakeFiles/alpaca_collector.dir
+/home/cauzimkasim/lab/data/build/CMakeFiles/edit_cache.dir
+/home/cauzimkasim/lab/data/build/CMakeFiles/rebuild_cache.dir
