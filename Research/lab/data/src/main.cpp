@@ -1,4 +1,5 @@
 #include "alpaca.hpp"
+#include "config.hpp"
 
 #include <cstdlib>
 #include <fstream>
@@ -55,10 +56,10 @@ int main() {
             "1Min",
 
             // Start
-            "2026-01-01T00:00:00Z",
+            START_TIMESTAMP,
 
             // End
-            "2026-02-01T00:00:00Z"
+            END_TIMESTAMP
         );
 
         std::ofstream file(
