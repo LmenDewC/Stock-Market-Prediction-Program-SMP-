@@ -40,10 +40,7 @@ int main() {
         );
 
         std::vector<std::string> symbols {
-            "AAPL",
-            "MSFT",
-            "NVDA",
-            "TSLA"
+            "AAPL"
         };
 
         std::cout
