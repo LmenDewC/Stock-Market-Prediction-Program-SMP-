@@ -25,7 +25,7 @@ cmake --build . -j"$(nproc)"
 ./alpaca_collector
 
 # Store collected data
-MONTH_TXT="$MONTH.csv"
+MONTH_TXT="$MONTH.txt"
 cp market_data.csv "../../../Data/$MONTH_TXT"
 
 
